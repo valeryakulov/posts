@@ -1,0 +1,18 @@
+.item {
+   padding: 2px;
+ }
+ 
+ .network {
+   margin-right: 4px;
+ }
+ .connection {
+   display: flex;
+   flex-direction: row;
+   margin-left: 15px;
+   cursor: pointer;
+   opacity: 0,1;
+  animation: ani 2.5s forwards;
+ }
+ /* .connection:hover {
+  
+ } */

@@ -1,0 +1,30 @@
+.footer{
+display: flex;
+flex-direction: column;
+justify-content: center;
+position: relative; 
+background-color:rgb(235, 245, 178);
+height: 40px;
+padding-top: 24px;
+width: 100% 
+
+
+}
+
+.Connection{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding-bottom: 5px;
+background-color:rgb(235, 245, 178);
+
+}
+
+.sig{
+   display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding-bottom: 5px;
+}

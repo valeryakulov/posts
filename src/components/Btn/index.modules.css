@@ -1,0 +1,28 @@
+.btn {
+  padding: 10px 18px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  border-radius: 55px;
+  text-decoration: none;
+  border: none;
+  display: inline-block;
+  transition: background-color 0.3s;
+  cursor: pointer;
+}
+
+.btn_type_primary {
+  background-color: #f44336;
+}
+.btn_type_primary:hover {
+  background-color: #feba0c;
+  color: #f44336;
+}
+
+.btn_type_secondary {
+  background-color: #03a9f4;
+  color: #fff;
+}
+.btn_type_secondary:hover {
+  background-color: #26b2f3;
+}
